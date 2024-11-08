@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645039574694",
+    "project_id": "bank-app-d5126",
+    "storage_bucket": "bank-app-d5126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645039574694:android:8de476f51124e387ad6e67",
+        "android_client_info": {
+          "package_name": "com.example.bankapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyNVRKYL_rlolQtaxfBMIedHkFsbE_fHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
